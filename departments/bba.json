@@ -2,5 +2,14 @@
   "department": "Business Administration",
   "slug": "bba",
   "lastUpdated": "2026-05-11",
-  "courses": []
+  "courses": [
+        {
+      "id": 1,
+      "code": "ENG 1011",
+      "title": "English I",
+      "shortName": "Eng I",
+      "day": "Day 1",
+      "slot": "T1"
+    },
+  ]
 }
