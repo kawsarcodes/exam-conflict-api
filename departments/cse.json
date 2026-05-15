@@ -1,7 +1,7 @@
 {
   "department": "Computer Science & Engineering",
   "slug": "cse",
-  "lastUpdated": "2026-05-12",
+  "lastUpdated": "2026-05-15",
   "courses": [
     {
       "id": 1,
@@ -570,6 +570,30 @@
       "shortName": "UI Design",
       "day": "Day 1",
       "slot": "T2"
+    },
+    {
+      "id": 72,
+      "code": "CSE 4891",
+      "title": "Data Mining",
+      "shortName": "Data Mining",
+      "day": "Day 7",
+      "slot": "T1"
+    },
+    {
+      "id": 73,
+      "code": "CSE 3715",
+      "title": "Data Communication",
+      "shortName": "Data Comm",
+      "day": "Day 1",
+      "slot": "T1"
+    },
+    {
+      "id": 74,
+      "code": "CSE 4327",
+      "title": "VLSI Design",
+      "shortName": "VLSI",
+      "day": "Day 4",
+      "slot": "T1"
     }
   ]
 }
